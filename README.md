@@ -443,4 +443,16 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 
 ---
 
+## Contributors
+
+Thanks to the following people who have contributed to this project:
+
+* [@scottydocs](https://github.com/CodeDictators) 📖
+* [@cainwatson](https://github.com/kalpesh14m) 🐛
+* [@calchuchesta](https://github.com/kalpesh-mali) 🐛
+
+You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
+
+---
+
 License: [codedictator](https://www.instagram.com/codedictator/)
