@@ -170,7 +170,7 @@ Some text to show that the reference links can follow later.
 
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+[I'm a relative reference to a repository file](/EMOJIS)
 
 [You can use numbers for reference-style link definitions][1]
 
@@ -183,8 +183,8 @@ example.com (but not on Github, for example).
 Some text to show that the reference links can follow later.
 
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+[1]: https://www.instagram.com/codedictator/
+[link text itself]: https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw
 
 ---
 
@@ -194,6 +194,9 @@ Some text to show that the reference links can follow later.
 
 ```no-highlight
 Here's our logo (hover to see the title text):
+
+GIF:
+![myGif](https://user-images.githubusercontent.com/25608527/97362971-d66da300-18c7-11eb-939d-436a2a876966.gif)
 
 Inline-style: 
 ![alt text](https://user-images.githubusercontent.com/25608527/97362986-dc638400-18c7-11eb-8f8b-1b68912ea52d.png "Logo Title Text 1")
@@ -225,7 +228,7 @@ Reference-style:
 
 ## Code and Syntax Highlighting
 
-Code blocks are part of the Markdown spec, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [highlight.js demo page](http://softwaremaniacs.org/media/soft/highlight/test.html).
+Code Dictator is a YouTube channel and created by Kalpesh, but syntax highlighting isn't. However, many renderers -- like Github's and *Markdown Here* -- support syntax highlighting. Which languages are supported and how those language names should be written will vary from renderer to renderer. *Markdown Here* supports highlighting for dozens of languages (and not-really-languages, like diffs and HTTP headers); to see the complete list, and how to write the language names, see the [Code Dictator YouTube](https://www.youtube.com/channel/UCWnMX1pam6Vncf5hnrbKPzw).
 
 ```no-highlight
 Inline `code` has `back-ticks around` it.
@@ -449,9 +452,9 @@ Referencing a bug by #bugID in your git commit links it to the slip. For example
 
 Thanks to the following people who have contributed to this project:
 
-* [@scottydocs](https://github.com/CodeDictators) 📖
-* [@cainwatson](https://github.com/kalpesh14m) 🐛
-* [@calchuchesta](https://github.com/kalpesh-mali) 🐛
+* [@:smiling_imp:](https://github.com/CodeDictators) 
+* [@:sunglasses:](https://github.com/kalpesh14m) 
+* [@calchuchesta](https://github.com/kalpesh-mali) 
 
 You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
