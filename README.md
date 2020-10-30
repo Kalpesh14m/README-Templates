@@ -22,6 +22,8 @@
 |[Horizontal Rule](#hr)|
 |[Line Breaks](#lines)|
 |[YouTube Videos](#videos)|
+|[Emogis](https://github.com/Kalpesh14m/README-Templates/blob/main/EMOJIS/README.md)|
+
 
 
 ---
